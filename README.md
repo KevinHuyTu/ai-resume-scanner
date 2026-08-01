@@ -106,8 +106,8 @@ Your `.env` file is excluded from GitHub using `.gitignore` to keep your API key
 ----- Resume Text -----
 
 Kevin Huy Tu 
- (801) 859-3288 
-kevintu249@icloud.com 
+ (801) 859-xxxx 
+kevinxxxxx@icloud.com 
 GitHub/Portfolio: github.com/KevinHuyTu 
  
  
